@@ -1,0 +1,19 @@
+p {
+color: red;
+}
+h1 {
+color: #FF0000;
+}
+body {
+color: #541fd8;
+}
+h2 {
+color: #8855dd;
+}
+span class="active" {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-color: black;
+}
